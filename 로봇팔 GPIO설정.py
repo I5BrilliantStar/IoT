@@ -5,7 +5,7 @@ GROUND 14
 
 (기본 세팅 자세)
 gpio 7번 유지
-gpio 11번 90도
+gpio 11번 45도
 gpio 13번 90도
 gpio 15번 80도
 gpio 16번 180도
