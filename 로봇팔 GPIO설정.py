@@ -65,3 +65,5 @@ finally:
     # 모든 스레드가 종료될 때까지 대기
     for thread in threads:
         thread.join()
+
+        
