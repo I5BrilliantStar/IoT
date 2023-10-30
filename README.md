@@ -23,7 +23,7 @@ OpenCV
 sudo apt-get install python3-opencv
 ```
 
-OpenCV를 제외한 나머지 라이브러리는 pip로 설치
+OpenCV를 제외한 나머지 라이브러리는 pip로 설치 <br>
 Kafka
 ```sh
 pip3 install kafka-python
